@@ -47,10 +47,3 @@ class CrytocurrencyRepository : GlobalCryptoListRepsitoryType {
         return .success(cryptocurrency)
     }
 }
-
-
-//https://api.coingecko.com/api/v3/global
-
-//https://api.coingecko.com/api/v3/coins/list
-
- //https://api.coingecko.com/api/v3/simple/price?ids=bitcoin%2Cripple&vs_currencies=usd&include_market_cap=true&include_24hr_vol=true&include_24hr_change=true
